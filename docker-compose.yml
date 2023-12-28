@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  bot:
+    build: .
+    command: sh -c "python -m bot"
+    env_file:
+      - .env
+    volumes:
+      - .:/app:cached

@@ -27,7 +27,7 @@
       "code": "007"
     }
   },
-  "tapok696": {
+  "test": {
     "questions": {
     "first": {
       "question": "Какое блюдо ты ел по приезде на Джаву в местном варунге? \uD83C\uDF55\uD83C\uDF5F\uD83C\uDF54 \nВведи ответ в поле ввода",
@@ -78,6 +78,32 @@
       "latitude": -8.801877416448201,
       "longitude": 115.1705546001375,
       "code": "007"
+    }
+  },
+  "Valeriabori": {
+    "questions": {
+    "first": {
+      "question": "\uD83D\uDC22\uD83D\uDC22\uD83D\uDC22 \nСколько черепах живет у Димы дома \nВведи ответ в поле ввода",
+      "answer": [
+        "2",
+        "две"
+      ],
+      "help": "Больше одной"
+    },
+      "second": {
+      "question": "\uD83C\uDFD6\uD83C\uDFD6\uD83C\uDFD6 \nС какого пляжа на Бали, Дима прислал первое видео \nВведи ответ в поле ввода",
+      "answer": [
+        "меласти",
+        "melasti",
+        "melasti beach"
+      ],
+      "help": "Созвучно с предметом, которым пишут на доске"
+    }
+  },
+    "complete": {
+      "photo": "static/qr_lera.jpg",
+      "latitude": 54.154428,
+      "longitude": 37.581990
     }
   }
 }

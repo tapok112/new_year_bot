@@ -11,4 +11,4 @@ def start_keyboard(items: list[str]) -> InlineKeyboardMarkup:
     return builder.as_markup(resize_keyboard=True)
 
 
-start_cmds = ["Готов", "Ну нахер"]
+start_cmds = ["Готов(а)", "Ну нахер"]

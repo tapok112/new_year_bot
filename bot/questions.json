@@ -102,8 +102,8 @@
   },
     "complete": {
       "photo": "static/qr_lera.jpg",
-      "latitude": 54.154428,
-      "longitude": 37.581990
+      "latitude": 54.1544203844214,
+      "longitude": 7.581671296595644
     }
   },
   "tapok696": {
@@ -128,8 +128,8 @@
   },
     "complete": {
       "photo": "static/qr_lera.jpg",
-      "latitude": 54.154428,
-      "longitude": 37.581990
+      "latitude": 54.1544203844214,
+      "longitude": 7.581671296595644
     }
   }
 }
